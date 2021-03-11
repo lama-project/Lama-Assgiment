@@ -1,6 +1,6 @@
 Lama-Assgiment
 
-I'm sorry for missing making images being stored into AWS S3, so i developed that code later but for honesty i didn't change any thing at the previous version of the API but i attached the code file(s3.js) to ensure that i know how to implement that.
+I'm sorry for missing making images being stored into AWS S3 inspite of deploying the ApI as a codepipeline into it, so i developed that code later but for honesty i didn't change any thing at the previous version of the API but i attached the code file(s3.js) to ensure that i know how to implement that.
 
 ** To run the project
 
